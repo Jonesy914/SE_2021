@@ -1,0 +1,16 @@
+H:\docs\GitHub\James_Test\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+H:\docs\GitHub\James_Test\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+H:\docs\GitHub\James_Test\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+H:\docs\GitHub\James_Test\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+H:\docs\GitHub\James_Test\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+H:\docs\GitHub\James_Test\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+H:\docs\GitHub\James_Test\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+H:\docs\GitHub\James_Test\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+H:\docs\GitHub\James_Test\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+H:\docs\GitHub\James_Test\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+H:\docs\GitHub\James_Test\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+H:\docs\GitHub\James_Test\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+H:\docs\GitHub\James_Test\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+H:\docs\GitHub\James_Test\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+H:\docs\GitHub\James_Test\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+H:\docs\GitHub\James_Test\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache

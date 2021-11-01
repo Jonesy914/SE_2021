@@ -10,6 +10,10 @@ namespace ConsoleApp1
 
             sum = num1 + num2;
             Console.WriteLine("Hello World!\n My sum is equal to " + sum);
+
+            sum = num1 * num2;
+
+            Console.WriteLine("Hi James, I've multiplied them :) " + sum);
         }
     }
 }
