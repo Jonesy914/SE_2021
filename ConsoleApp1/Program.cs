@@ -6,7 +6,10 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int num1 = 2, num2 = 3, sum = 0;
+
+            sum = num1 + num2;
+            Console.WriteLine("Hello World!\n My sum is equal to " + sum);
         }
     }
 }
